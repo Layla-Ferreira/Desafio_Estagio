@@ -45,14 +45,17 @@ separadamente para o editor e depois para a IDE);
 Só então será possivel compilar o código;
 
 6ºPasso:Selecionar uma das 3 opções do sistema:
-    1ª-Realizar Cadastro:
-		Caso escolha essa opção você deverá digitar:nome do anúncio,nome do cliente,
+
+   1ª-Realizar Cadastro:
+    Caso escolha essa opção você deverá digitar:nome do anúncio,nome do cliente,
     Data_de_inicio,Data_de_término(deverá digitar dessa forma:dd/mm/aaaa) e valor que será investido;
     
-    2ª-Listar Cadastro:
+   2ª-Listar Cadastro:
 		Aqui será mostrado todos os anúncios cadastrados anteriormente;
-		3ª-Sair:
+		
+   3ª-Sair:
 		Aqui sairá do sistema;
+    
 		
 OBS:Não consegui integrar os dois sistemas para gerar os relatórios que se pede;
 
