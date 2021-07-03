@@ -5,6 +5,7 @@ Calculadora e Sistema de criação de anúncio
 retorne uma projeção aproximada da quantidade máxima de 
 pessoas que visualizarão o mesmo anúncio 
 (considerando o anúncio original + os compartilhamentos);
+
 2ºCriar um sistema que permita o cadastro de anúncios;
 
 # Status:
